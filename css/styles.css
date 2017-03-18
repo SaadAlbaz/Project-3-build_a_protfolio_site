@@ -1,0 +1,10 @@
+.logo {
+    width: 100px;
+}
+h1 {
+    text-transform: uppercase; 
+}
+hr {
+    border-top: 3px solid;
+    color: #7d97ad;
+}
